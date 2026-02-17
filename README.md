@@ -26,7 +26,7 @@ https://dubeboy.github.io/your-repo-name/
 - CSS (Bootstrap 5)
 - Vanilla JavaScript (ES6+)
 - Fetch API
-- GitHub Pages (for hosting demo)
+- Varcel (for hosting demo)
 
 ## How to Use
 
