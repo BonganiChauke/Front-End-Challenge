@@ -1,9 +1,25 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-html{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body,
+.card-title,
+.card-text,
+.card-subtitle,
+strong {
+    font-family:
+        "Franklin Gothic Medium",
+        "Franklin Gothic",
+        "ITC Franklin Gothic",
+        Arial,
+        Helvetica,
+        sans-serif;
+    line-height: 1.5;
+}
+
+.card {
+    max-width: 400px;
+    margin: 0;
 }
