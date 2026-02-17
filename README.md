@@ -45,7 +45,7 @@ your-repo-name/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/dubeboy/your-repo-name.git
+   git clone https://github.com/BonganiChauke/Front-End-Challenge
    ```
 
 ## To-Do / Future Improvements
