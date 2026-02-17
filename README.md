@@ -19,9 +19,7 @@ A clean, responsive web application that dynamically loads and displays support 
 - Vanilla JavaScript + Bootstrap 5 – no heavy frameworks
 
 ## Demo
-
-https://dubeboy.github.io/your-repo-name/  
-(or use GitHub Pages link once deployed)
+https://front-end-challenge-seven-iota.vercel.app
 
 ## Technologies
 
@@ -29,7 +27,7 @@ https://dubeboy.github.io/your-repo-name/
 - CSS (Bootstrap 5)
 - Vanilla JavaScript (ES6+)
 - Fetch API
-- Varcel (for hosting demo)
+- Vercel (for hosting demo)
 
 ## Project Structure
 
