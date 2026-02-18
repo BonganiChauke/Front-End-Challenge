@@ -32,7 +32,7 @@ https://front-end-challenge-seven-iota.vercel.app
 ## Project Structure
 
 ```text
-your-repo-name/
+[Front-End-Challenge](https://github.com/BonganiChauke/Front-End-Challenge.git)/
 ├── **index.html**          # Main HTML file with Bootstrap + container
 ├── **script.js**           # JavaScript: fetch, render cards, error/loading handling
 ├── **style.css**           # Styling 
@@ -51,7 +51,6 @@ your-repo-name/
 ## To-Do / Future Improvements
 - Add client-side search/filter by title, status, priority or assignee
 - Implement sorting (e.g. newest first, high priority first)
-- Dark mode toggle (using CSS variables + localStorage)
 
 ## Contributing
 - Contributions are welcome and appreciated!
